@@ -21,7 +21,7 @@
 4. 출발지에서 데이터가 전송될 떄 헤더가 추가되는데 2계층에서만 오류 제어를 위해 추가됨
 5. 물리 계층에서 1,0의 신호가 되어 전송매체(동축케이블, 광섬유 등)을 통해 전송
 
-![](C:\Users\CKIRUser\Downloads.osi.jpg)
+![OSI 7 Layer](https://velog.velcdn.com/images%2Fcgotjh%2Fpost%2F52907c8c-c149-4943-ad21-3996f44f912f%2F995EFF355B74179035.jpg)
 
 
 
