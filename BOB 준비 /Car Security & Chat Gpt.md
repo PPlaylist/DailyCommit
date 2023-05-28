@@ -82,3 +82,6 @@
  법적문제를 최소화 할수 있을 것이다. 
 ```
 
+![image-20230528225410514](C:\Users\CKIRUser\AppData\Roaming\Typora\typora-user-images\image-20230528225410514.png)
+
+![image-20230528225421718](C:\Users\CKIRUser\AppData\Roaming\Typora\typora-user-images\image-20230528225421718.png)
