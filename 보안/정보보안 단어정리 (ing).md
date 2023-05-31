@@ -1,6 +1,3 @@
-![](https://velog.velcdn.com/images/list-_-/post/80017af2-8567-416a-9a8f-4c5cd81c3b91/image.gif)
-
-
 # 보안 단어 정리 
 
 1. ##### 가로채기(Interception) 
